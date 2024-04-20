@@ -87,4 +87,5 @@ dependencies:
   - zstd=1.5.5=hc292b87_0
   - pip:
       - sounddevice==0.4.6
+      - soundfile==0.12.1
 prefix: /home/kali/miniconda3
